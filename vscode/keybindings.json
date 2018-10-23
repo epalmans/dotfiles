@@ -1,0 +1,20 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+w",
+        "command": "editor.emmet.action.balanceOut"
+    },
+    {
+        "key": "ctrl+2",
+        "command": "-workbench.action.focusSecondEditorGroup",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+2",
+        "command": "-workbench.action.openEditorAtIndex2"
+    },
+    {
+        "key": "ctrl+2",
+        "command": "-workbench.action.focusSecondEditorGroup"
+    }
+]

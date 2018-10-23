@@ -1,0 +1,25 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.exclude": {
+        "**/*.js": {
+            "when": "$(basename).ts"
+        },
+        "**/*.js.map": true
+    },
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "window.zoomLevel": 1,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "Afterglow Remastered",
+    "editor.fontFamily": "Hack",
+    "editor.fontSize": 13,
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}

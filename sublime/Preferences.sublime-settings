@@ -1,0 +1,31 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "bs3",
+			"selector": "text.html"
+		}
+	],
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"app/storage"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_14": true,
+	"statusbar_size_14": true,
+	"tabs_medium": true,
+	"tab_label_size_12": true,
+	"theme": "Afterglow.sublime-theme",
+	"update_check": false
+}
