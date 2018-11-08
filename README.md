@@ -51,3 +51,24 @@ Font: Consolas _(default)_
 
 `.eslintrc` - extends [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb), prettier and prettier/react  
 `.gitignore`
+<br>
+
+
+## Browser extensions (Google Chrome)
+
+*-*  [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)  
+*-*  [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)  
+*-*  [Wappalyzer](https://www.wappalyzer.com/)  
+*-*  [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)  
+*-*  [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)  
+*-*  [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)  
+
+#### Other:
+*-*  [Pushbullet](https://www.pushbullet.com/)  
+*-*  [Hola! VPN](https://hola.org/)  
+*-*  [Adblock Plus](https://adblockplus.org/)  
+*-*  [Gmail-to-Trello](https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl)   
+*-*  [Tab Snooze](https://chrome.google.com/webstore/detail/tab-snooze/pdiebiamhaleloakpcgmpnenggpjbcbm)  
+
+
+
