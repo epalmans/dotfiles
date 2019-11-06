@@ -28,8 +28,9 @@ Font: [Hack](https://sourcefoundry.org/hack/)
 
 `/sublime/Preferences.sublime-settings`
 
-Theme: [Afterglow](https://github.com/YabataDesign/afterglow-theme)  
-Font: Consolas _(default)_
+Theme: Adaptive  
+Colour scheme: Mariana
+Font: [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
 #### Packages:
 *-* Alignment  

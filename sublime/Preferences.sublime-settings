@@ -6,26 +6,32 @@
 			"selector": "text.html"
 		}
 	],
+	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
 		".git",
 		".hg",
 		"CVS",
-		"app/storage"
+		"app/storage",
+		"node_modules",
+		"storage/debugbar"
 	],
+	"font_face": "Source Code Pro",
 	"font_size": 13,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"node_path": "C:\\Program Files\\nodejs\\node.exe",
 	"sidebar_row_padding_medium": true,
-	"sidebar_size_14": true,
-	"statusbar_size_14": true,
-	"tabs_medium": true,
-	"tab_label_size_12": true,
-	"theme": "Afterglow.sublime-theme",
-	"update_check": false
+	"update_check": false,
+	"wide_caret": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
 }
