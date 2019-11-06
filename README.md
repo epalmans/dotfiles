@@ -36,9 +36,11 @@ Font: Consolas _(default)_
 *-* Babel  
 *-* Bootrap 3 Snippets   
 *-* Conda   
+*-* Emmet   
 *-* HTML-CSS-JS Prettify   
 *-* Laravel Blade Highlighter   
 *-* PHP Companion   
+*-* PHP CS Fixer   
 *-* Sass   
 *-* SideBarEnhancements   
 *-* StringEncode   
@@ -49,6 +51,7 @@ Font: Consolas _(default)_
 
 ## Other (per project)
 
+`.php_cs` - PHP-CS-Fixer config. Almost identical to Laravel coding styles  
 `.eslintrc` - extends [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb), prettier and prettier/react  
 `.gitignore`
 <br>
@@ -61,13 +64,12 @@ Font: Consolas _(default)_
 *-*  [Wappalyzer](https://www.wappalyzer.com/)  
 *-*  [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)  
 *-*  [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)  
-*-*  [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)  
+*-*  [FireShot Lite](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)  
 
 #### Other:
 *-*  [Pushbullet](https://www.pushbullet.com/)  
 *-*  [Hola! VPN](https://hola.org/)  
 *-*  [Adblock Plus](https://adblockplus.org/)  
-*-*  [Gmail-to-Trello](https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl)   
 *-*  [Tab Snooze](https://chrome.google.com/webstore/detail/tab-snooze/pdiebiamhaleloakpcgmpnenggpjbcbm)  
 
 
