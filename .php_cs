@@ -26,7 +26,7 @@ return PhpCsFixer\Config::create()
         'array_syntax' => ['syntax' => 'short'],
         'binary_operator_spaces' => [
             'default' => 'single_space',
-            'operators' => ['=>' => null]
+            'operators' => ['=>' => 'align_single_space_minimal'] //EDDIE: was 'none'
         ],
         'blank_line_after_namespace' => true,
         'blank_line_after_opening_tag' => true,
