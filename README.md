@@ -71,7 +71,4 @@ Font: [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 *-*  [Pushbullet](https://www.pushbullet.com/)  
 *-*  [Hola! VPN](https://hola.org/)  
 *-*  [Adblock Plus](https://adblockplus.org/)  
-*-*  [Tab Snooze](https://chrome.google.com/webstore/detail/tab-snooze/pdiebiamhaleloakpcgmpnenggpjbcbm)  
-
-
-
+*-*  [Tab Snooze](https://chrome.google.com/webstore/detail/tab-snooze/pdiebiamhaleloakpcgmpnenggpjbcbm)
